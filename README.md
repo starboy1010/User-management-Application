@@ -84,7 +84,11 @@ Ensure you have the following installed on your system:
 
 This project uses [MockAPI.io](https://mockapi.io/) to handle CRUD operations. 
 
-- **Base URL:** `https://your-mockapi-url.com/api/v1/users`
+- **Base URL:** `https://66da1b734ad2f6b8ed57008c.mockapi.io/crud`
+
+  ## Deployment
+
+This project is deployed on netlify **URL:** `https://user-management-application123.netlify.app/`
 
 ## Contributing
 
@@ -102,4 +106,4 @@ If you have any questions or suggestions, feel free to reach out:
 
 - **Name:** Pratiyush Sharma
 - **Email:** sharma.rekha3111975@gmail.com
-- **GitHub:** [https://github.com/yourusername](https://github.com/yourusername)
+- **GitHub:** https://github.com/starboy1010
