@@ -1,6 +1,3 @@
-# User-management-Application
-
-https://user-management-application123.netlify.app/
 # User Management Application
 
 This User Management Application allows users to perform basic CRUD (Create, Read, Update, Delete) operations on user data. The application is built using Semantic UI React for the UI components, including forms, tables, and buttons, and utilizes MockAPI.io for backend data management.
@@ -86,7 +83,7 @@ This project uses [MockAPI.io](https://mockapi.io/) to handle CRUD operations.
 
 - **Base URL:** `https://66da1b734ad2f6b8ed57008c.mockapi.io/crud`
 
-  ## Deployment
+## Deployment
 
 This project is deployed on netlify **URL:** `https://user-management-application123.netlify.app/`
 
